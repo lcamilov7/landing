@@ -1,0 +1,29 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+@import url("components/banner.css");
+@import url("components/container.css");
+@import url("components/card.css");
+@import url("components/footer.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Inconsolata', monospace;
+  background-color: whitesmoke;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Inconsolata', monospace;
+}
+h1 {
+  color: whitesmoke;
+  text-shadow: 0 0 15px rgba(0,0,0,0.5);
+}
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
